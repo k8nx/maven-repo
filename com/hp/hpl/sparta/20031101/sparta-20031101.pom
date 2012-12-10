@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.hp.hpl</groupId>
+  <artifactId>sparta</artifactId>
+  <version>20031101</version>
+</project>
